@@ -1,6 +1,6 @@
-# project-nuxt
+# Landing-nuxt-project
 
-> My super Nuxt.js project
+> You can see with the project the use of Frameworks javascript NuxtJs and CSS Bulma. This project contains very functional sections of basic elements for a web page 
 
 ## Build Setup
 
